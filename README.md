@@ -1,3 +1,5 @@
+REMOTE
+
 # nouveau-projet
 Git/GitHub 5 : Merge &amp; Conflits
 
