@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 LOCAL
-=======
-REMOTE
->>>>>>> 2668229de3c45b1403c54ba9c858c510753c57dd
 
 # nouveau-projet
 Git/GitHub 5 : Merge &amp; Conflits
